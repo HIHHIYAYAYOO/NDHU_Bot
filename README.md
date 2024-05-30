@@ -1,4 +1,6 @@
 # NDHU_Bot
+## 教學影片
+
 ## 安裝 Anaconda
 1. 前往 [Anaconda官網](https://www.anaconda.com/download)。
 2. 點擊 「Skip registration」。
