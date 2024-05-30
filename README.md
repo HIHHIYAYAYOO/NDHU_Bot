@@ -1,5 +1,8 @@
 # NDHU_Bot
+透過動態爬蟲來實現自動搶課
+
 ## 教學影片
+[NDHU_Bot 教學連結](https://youtu.be/vXswUARh6iY)
 
 ## 安裝 Anaconda
 1. 前往 [Anaconda官網](https://www.anaconda.com/download)。
