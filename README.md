@@ -18,4 +18,13 @@
 4. 運行第二個儲存格 導入套件。
 5. 運行第三個儲存格 設定學號、選課密碼以及搶課順序。
 6. 運行第四個儲存格 開啟「學生網路選課系統」網站 。
-7. 運行第五個儲存格 自動搶課(可以提早運行)。
+   * 如果沒跳出分頁，更新 Chrome 版本(點擊右上角 ⁝ > 設定 > 關於 Chrome)，在運行一次。
+   * 還是不行，需手動安裝 Chromedriver
+     a. 前往 [Chrome for Testing availability](https://googlechromelabs.github.io/chrome-for-testing/#stable)
+     b. 於Channel 中選擇 Stable
+     c. 複製符合您作業系統及 Chrome 版本的 chromedriver URL (注意不要複製到 chrome)
+     d. 貼上 URL 到搜尋欄，並下載 chromedriver 
+     e. 解壓縮 chromedriver-win64 資料夾
+     f. 將 chromedriver.exe 複製到 NDHU_Bot 的目錄下，在運行一次。
+8. 運行第五個儲存格 自動搶課(可以提早運行)。
+註: 記憶體大小會影響自動搶課速度
