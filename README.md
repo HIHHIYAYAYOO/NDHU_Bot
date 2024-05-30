@@ -20,7 +20,7 @@
 4. 運行第二個儲存格 導入套件。
 5. 運行第三個儲存格 設定學號、選課密碼以及搶課順序。
 6. 運行第四個儲存格 開啟「學生網路選課系統」網站 。
-   * 如果沒跳出分頁，更新 Chrome 版本(點擊右上角 ⁝ > 設定 > 關於 Chrome)，在運行一次。
+* 如果沒跳出分頁，更新 Chrome 版本(點擊右上角 ⁝ > 設定 > 關於 Chrome)，在運行一次。
    * 還是不行，需手動安裝 Chromedriver
    * 前往 [Chrome for Testing availability](https://googlechromelabs.github.io/chrome-for-testing/#stable)
    * 於Channel 中選擇 Stable
