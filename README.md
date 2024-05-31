@@ -1,5 +1,5 @@
 # NDHU_Bot
-透過動態爬蟲來實現自動點擊的工具
+透過動態爬蟲實現網站自動點擊的工具
 
 ## 教學影片
 [NDHU_Bot 教學連結](https://youtu.be/vXswUARh6iY)
